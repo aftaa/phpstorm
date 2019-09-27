@@ -25,4 +25,7 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
 </keymap>
