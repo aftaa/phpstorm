@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="d22b6797-15d6-4da1-a8cb-b222975c6e7e" name="223smsp-ea" url="http://sectionks.etp-ets.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
