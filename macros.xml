@@ -41,5 +41,10 @@
       <action id="EditorLeft" />
       <action id="EditorRight" />
     </macro>
+    <macro name="&lt;?= ?&gt;">
+      <action id="InsertLiveTemplate" />
+      <typing text-keycode="86:0;65:0;82:0">var</typing>
+      <action id="EditorChooseLookupItem" />
+    </macro>
   </component>
 </application>
