@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a6968ca9-8cc0-4aae-809b-8fa526bfe3d5" name="vseti-goroda development" url="http://vg-dev/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
