@@ -5,15 +5,17 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="af449c64-3bfd-4441-bc8b-68f82fadbbb5" name="aftaa.ru" url="http://microweb.info">
-        <fileTransfer host="microweb.info" port="21" rootFolder="/domains/aftaa.ru/public_html">
+        <fileTransfer host="microweb.info" port="21" rootFolder="/domains/aftaa.ru/public_html/after">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="12a40005-6883-4eef-b94d-9816bad9e907" name="dev.after.aftaa" url="http://dev.after.aftaa">
-        <fileTransfer port="0" accessType="LOCAL" />
+      <webServer id="12a40005-6883-4eef-b94d-9816bad9e907" name="dev.after.aftaa" url="https://after.aftaa">
+        <fileTransfer host="microweb.info" port="21" rootFolder="/domains/aftaa.ru/public_html/after">
+          <option name="port" value="21" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>
