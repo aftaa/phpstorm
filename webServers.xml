@@ -17,6 +17,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="f5048275-1f7c-4639-8b44-31f9a72d8b08" name="vsetig" url="http://vsetig">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
