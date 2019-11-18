@@ -20,6 +20,14 @@
       <webServer id="f5048275-1f7c-4639-8b44-31f9a72d8b08" name="vsetig" url="http://vsetig">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="4834e474-f479-401c-943a-b9bda57b5693" name="www.food-trest.ru" url="http://food-trest.ru">
+        <fileTransfer host="ftp.food-trest.nichost.ru" port="21" rootFolder="/food-trest.ru/docs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
