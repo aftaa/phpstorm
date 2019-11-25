@@ -4,19 +4,6 @@
       <webServer id="a6968ca9-8cc0-4aae-809b-8fa526bfe3d5" name="vseti-goroda development" url="http://vg-dev/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="af449c64-3bfd-4441-bc8b-68f82fadbbb5" name="aftaa.ru" url="https://aftaa.ru/">
-        <fileTransfer host="microweb.info" port="21" rootFolder="/domains/aftaa.ru/public_html">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="12a40005-6883-4eef-b94d-9816bad9e907" name="dev.after.aftaa" url="https://after.aftaa.ru/">
-        <fileTransfer host="microweb.info" port="21" rootFolder="/domains/aftaa.ru/public_html/after">
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="f5048275-1f7c-4639-8b44-31f9a72d8b08" name="vsetig" url="http://vsetig">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
