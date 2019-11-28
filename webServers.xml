@@ -18,6 +18,18 @@
       <webServer id="976986ab-88c9-4d66-8551-b78b919cfa34" name="kuba.moscow" url="http://kuba.moscow">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="daa505d3-bbe0-4fcd-af08-1547f9757bfd" name="magento" url="http://magento">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="cdbe0100-29f5-4992-aace-b2c7af6dc0d9" name="pim" url="http://pim">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="5cf0302a-5abd-40a3-a455-3a0a2dd904b6" name="zm" url="http://zm">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="fbaa7d8e-31be-464d-aff7-1b2d743c0fc7" name="aftaa.ru" url="http://aftaa.ru">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
