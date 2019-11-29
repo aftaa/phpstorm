@@ -30,6 +30,9 @@
       <webServer id="fbaa7d8e-31be-464d-aff7-1b2d743c0fc7" name="aftaa.ru" url="http://aftaa.ru">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="3d905a78-c15c-4ca1-9968-736480015d26" name="backend" url="http://backend">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
