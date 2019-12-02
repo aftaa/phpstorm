@@ -36,6 +36,9 @@
       <webServer id="c27e0066-b9eb-41c5-8eb0-e2e0772367b7" name="auth" url="http://auth">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="20a35da7-ff22-47f0-9d08-6cfe4e41967f" name="storefront" url="http://storefront">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
