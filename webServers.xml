@@ -39,6 +39,9 @@
       <webServer id="20a35da7-ff22-47f0-9d08-6cfe4e41967f" name="storefront" url="http://storefront">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="5f381604-438b-42c4-a776-dd7906939725" name="kuba-dev" url="http://kuba-dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
