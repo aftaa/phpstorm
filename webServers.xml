@@ -9,6 +9,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="bb1666e5-98cf-4ef6-9c4e-b26629b8eba2" name="vseti-goroda.aftaa.ru" url="http://vseti-goroda.aftaa.ru">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
