@@ -12,6 +12,9 @@
       <webServer id="bb1666e5-98cf-4ef6-9c4e-b26629b8eba2" name="vseti-goroda.aftaa.ru" url="http://vseti-goroda.aftaa.ru">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="b27685cb-d24c-4e7e-977a-8a090e7ffb3b" name="kuba.moscow" url="https://kuba.moscow">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
