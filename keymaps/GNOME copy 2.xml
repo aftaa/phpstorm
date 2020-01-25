@@ -2,5 +2,4 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
-  <action id="EditorSelectWord" />
 </keymap>
