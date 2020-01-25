@@ -1,14 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="1ad7bb6a-d83d-4496-a187-2faa0a505604" name="microweb" url="https://aftaa.ru">
-        <fileTransfer host="microweb.info" port="21" rootFolder="/domains/aftaa.ru/public_html">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="bb1666e5-98cf-4ef6-9c4e-b26629b8eba2" name="vseti-goroda.aftaa.ru" url="http://vseti-goroda.aftaa.ru">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
