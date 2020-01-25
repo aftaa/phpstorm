@@ -15,6 +15,9 @@
       <webServer id="b27685cb-d24c-4e7e-977a-8a090e7ffb3b" name="kuba.moscow" url="https://kuba.moscow">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e4132388-bda6-4136-8465-c653251675f2" name="after.aftaa.local" url="http://after.aftaa.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
