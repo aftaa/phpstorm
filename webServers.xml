@@ -10,6 +10,14 @@
       <webServer id="e4132388-bda6-4136-8465-c653251675f2" name="after.aftaa.local" url="http://after.aftaa.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="ad58d4a5-ecb2-4e87-bca3-cf78807fb0b9" name="vseti-goroda.ru" url="http://vseti-goroda.ru/">
+        <fileTransfer host="vsetig.beget.tech" port="21" rootFolder="/test.vseti-goroda.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
