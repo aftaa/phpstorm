@@ -18,6 +18,22 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="36dec57e-150c-4901-9107-02e07ab5e910" name="aftaa.ru" url="https://aftaa.ru">
+        <fileTransfer host="microweb.info" port="21" rootFolder="/domains/aftaa.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4ed18461-cf31-4368-b1da-330d7ccd1bf9" name="aftaa.ru" url="https://aftaa.ru">
+        <fileTransfer host="microweb.info" port="21" rootFolder="/domains/aftaa.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
