@@ -29,6 +29,9 @@
       <webServer id="2152a37a-2558-4c9b-9c6c-3e81710f6757" name="abk.local" url="http://abk.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="430ecabe-66bd-4cb4-afca-b8205d6e1770" name="portal" url="http://portal">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
