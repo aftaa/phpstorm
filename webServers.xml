@@ -32,6 +32,9 @@
       <webServer id="430ecabe-66bd-4cb4-afca-b8205d6e1770" name="portal" url="http://portal">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="90c88db8-32f0-4d90-962d-3f5a7844d140" name="game-back" url="http://game-back">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
