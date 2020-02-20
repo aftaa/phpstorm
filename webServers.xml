@@ -35,6 +35,9 @@
       <webServer id="90c88db8-32f0-4d90-962d-3f5a7844d140" name="game-back" url="http://game-back">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e694da62-1bc5-4818-a3c4-ddbf5b5ad6d9" name="gamification" url="http://gamification">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
