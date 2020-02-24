@@ -38,6 +38,9 @@
       <webServer id="e694da62-1bc5-4818-a3c4-ddbf5b5ad6d9" name="gamification" url="http://gamification">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="223d53ed-8be2-4cff-a322-b7572a8bab76" name="vg.aftaa.ru.local" url="http://vg.aftaa.ru.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
