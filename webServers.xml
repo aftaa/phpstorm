@@ -41,6 +41,9 @@
       <webServer id="223d53ed-8be2-4cff-a322-b7572a8bab76" name="vg.aftaa.ru.local" url="http://vg.aftaa.ru.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="6263672d-51c9-43bb-8620-0243a8ca6734" name="hui" url="http://af.kuba.moscow/">
+        <fileTransfer port="0" mountedRoot="/var/www/antifilter/af/af2" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
