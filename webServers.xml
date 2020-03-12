@@ -44,6 +44,9 @@
       <webServer id="6263672d-51c9-43bb-8620-0243a8ca6734" name="hui" url="http://af.kuba.moscow/">
         <fileTransfer port="0" mountedRoot="/var/www/antifilter/af/af2" accessType="MOUNT" />
       </webServer>
+      <webServer id="b8759041-2b45-461b-a55f-5a0cdf24a05b" name="kuba.msk.ru.local" url="http://kuba.msk.ru.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
