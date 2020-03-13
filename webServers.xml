@@ -50,6 +50,9 @@
       <webServer id="174e50f5-ef11-47e4-b2b3-e33af7f22a6c" name="kuba.moscow.ru.local" url="http://kuba.moscow.ru.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c872d2a8-6795-4a8c-8836-d534f8b7c419" name="kuba.moscow.ru.local" url="http://kuba.moscow.ru.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
