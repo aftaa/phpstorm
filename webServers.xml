@@ -4,6 +4,9 @@
       <webServer id="8f0b4776-9ea9-4139-90c1-b38d64bfb9ca" name="vg.aftaa.ru.local" url="http://vg.aftaa.ru.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="a5ea1307-0b14-43bd-94e2-d0986be6b445" name="localhost" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
