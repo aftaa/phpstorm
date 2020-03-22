@@ -10,6 +10,9 @@
       <webServer id="03a9fd0c-194a-4ab2-99d6-ac525778ad6c" name="kuba.moscow.local" url="http://kuba.moscow.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f0f21cd7-663e-4fd3-ab15-c470eab8bcca" name="aftaa.ru.local" url="http://aftaa.ru.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
