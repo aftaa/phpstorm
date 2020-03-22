@@ -7,6 +7,9 @@
       <webServer id="a5ea1307-0b14-43bd-94e2-d0986be6b445" name="localhost" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="03a9fd0c-194a-4ab2-99d6-ac525778ad6c" name="kuba.moscow.local" url="http://kuba.moscow.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
