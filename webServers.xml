@@ -21,6 +21,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="c8e96cc9-41aa-4219-bf73-0fe12255a6c3" name="vsetigoroda.ru.local" url="http://vsetigoroda.ru.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
