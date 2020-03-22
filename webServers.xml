@@ -27,6 +27,9 @@
       <webServer id="1fcc76cc-c631-4bcf-b126-fd810ce9a3e6" name="kuba.msk.ru.local" url="http://kuba.msk.ru.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="2d49e52c-cfd6-46e4-a4f3-d1e32e322f29" name="vseti-goroda.ru.local" url="http://vseti-goroda.ru.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
