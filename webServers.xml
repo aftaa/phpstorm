@@ -30,6 +30,9 @@
       <webServer id="2d49e52c-cfd6-46e4-a4f3-d1e32e322f29" name="vseti-goroda.ru.local" url="http://vseti-goroda.ru.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="0f03182c-b6b4-47a8-9ec0-a3328c3afc0d" name="cp.aftaa.ru.local" url="http://cp.aftaa.ru.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
