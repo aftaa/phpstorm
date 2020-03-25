@@ -33,6 +33,14 @@
       <webServer id="0f03182c-b6b4-47a8-9ec0-a3328c3afc0d" name="cp.aftaa.ru.local" url="http://cp.aftaa.ru.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="256f7310-847e-4d71-bc1a-af123a8d6d8c" name="fornex" url="https://vseti-goroda.ru">
+        <fileTransfer host="5.187.5.182" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
