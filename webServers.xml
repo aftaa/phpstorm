@@ -33,6 +33,9 @@
       <webServer id="0f03182c-b6b4-47a8-9ec0-a3328c3afc0d" name="cp.aftaa.ru.local" url="http://cp.aftaa.ru.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="26fc89e7-f33a-47a3-8f12-3ed662cfbe6c" name="e" url="http://e">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
