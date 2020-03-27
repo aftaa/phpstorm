@@ -44,6 +44,9 @@
       <webServer id="83302852-0081-46eb-9261-1860fcb40e0e" name="elementary.activebc.ru" url="http://elementary.activebc.ru">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f2ad8fd8-2a93-4e37-b34f-86d998fa4c5f" name="http://front.elementary.local/" url="http://front.elementary.local/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
