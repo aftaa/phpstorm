@@ -41,6 +41,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="83302852-0081-46eb-9261-1860fcb40e0e" name="elementary.activebc.ru" url="http://elementary.activebc.ru">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
