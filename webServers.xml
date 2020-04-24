@@ -1,51 +1,17 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="8f0b4776-9ea9-4139-90c1-b38d64bfb9ca" name="vg.aftaa.ru.local" url="http://vg.aftaa.ru.local">
-        <fileTransfer port="0" accessType="LOCAL" />
+      <webServer id="2314d348-1ac1-4dff-8754-c47b918b720f" name="aftaa.ru" url="http://aftaa.ru">
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
-      <webServer id="a5ea1307-0b14-43bd-94e2-d0986be6b445" name="localhost" url="http://localhost">
-        <fileTransfer port="0" accessType="LOCAL" />
+      <webServer id="770b3f03-1e3e-4381-93aa-b8eae285882e" name="kuba.moscow" url="http://kuba.moscow">
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
-      <webServer id="03a9fd0c-194a-4ab2-99d6-ac525778ad6c" name="kuba.moscow.local" url="http://kuba.moscow.local">
-        <fileTransfer port="0" accessType="LOCAL" />
+      <webServer id="b69a5068-79d1-4659-a1e9-1d287479fcb7" name="kuba.msk.ru" url="http://kuba.msk.ru">
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
-      <webServer id="f0f21cd7-663e-4fd3-ab15-c470eab8bcca" name="aftaa.ru.local" url="http://aftaa.ru.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="57253263-07d3-4926-9033-656d4f539a7d" name="beget.ru" url="http://vseti-goroda.ru/">
-        <fileTransfer host="vsetig.beget.tech" port="21" rootFolder="/test.vseti-goroda.ru/public_html">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="c8e96cc9-41aa-4219-bf73-0fe12255a6c3" name="vsetigoroda.ru.local" url="http://vsetigoroda.ru.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="1fcc76cc-c631-4bcf-b126-fd810ce9a3e6" name="kuba.msk.ru.local" url="http://kuba.msk.ru.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="2d49e52c-cfd6-46e4-a4f3-d1e32e322f29" name="vseti-goroda.ru.local" url="http://vseti-goroda.ru.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="0f03182c-b6b4-47a8-9ec0-a3328c3afc0d" name="cp.aftaa.ru.local" url="http://cp.aftaa.ru.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="256f7310-847e-4d71-bc1a-af123a8d6d8c" name="fornex" url="https://vseti-goroda.ru">
-        <fileTransfer host="5.187.5.182" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="83302852-0081-46eb-9261-1860fcb40e0e" name="elementary.activebc.ru" url="http://elementary.activebc.ru">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="f2ad8fd8-2a93-4e37-b34f-86d998fa4c5f" name="http://front.elementary.local/" url="http://front.elementary.local/">
-        <fileTransfer port="0" accessType="LOCAL" />
+      <webServer id="5f5ae8d3-5538-4ba2-b74a-7ddf9fdc2eb6" name="creative" url="http://creative">
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
     </option>
   </component>
