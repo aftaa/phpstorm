@@ -8,4 +8,7 @@
   <action id="Macro.&lt;?=  ?&gt;">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
+  <action id="Macro.&lt;?php  ?&gt;">
+    <keyboard-shortcut first-keystroke="ctrl alt quote" />
+  </action>
 </keymap>
